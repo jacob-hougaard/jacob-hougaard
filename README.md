@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacob-hougaard
 - 👀 I’m interested in development, product design, cool stuff.
-- 🌱 I’m currently OpenShift and Integration with the ethereum network
+- 🌱 I’m currently learning OpenShift and Integration with the ethereum network
 - 💞️ I’m looking to collaborate on projects with a dedicated userbase 
 - 📫 You can reach me by adding me on [linkedIn](https://www.linkedin.com/in/jacob-hougaard-bennedsen). 
