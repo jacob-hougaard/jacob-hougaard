@@ -5,7 +5,7 @@ My name is Jacob and I am a professional software developer with over 5 years of
 
 I work at IBM where I have gained expertise in various technologies and development methodologies. 
 
-In 2020, I completed my Master's in Product Development, which further enhanced my skills and knowledge in this field, and even though i know a lot about design theory and product development, i can still bake a mean distributed system 💪
+In 2020, I completed my Master's in Product Development, which further enhanced my skills and knowledge in this field, i take pride in having knowledge within design theory and product development and still being able to bake a mean distributed system 💪
 
 # 👨‍🎓 Education
 BA IT Product Design - 2018
