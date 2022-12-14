@@ -1,5 +1,21 @@
-- 👋 Hi, I’m @jacob-hougaard
-- 👀 I’m interested in development, product design, cool stuff.
-- 🌱 I’m currently learning OpenShift and Integration with the ethereum network
-- 💞️ I’m looking to collaborate on projects with a dedicated userbase 
-- 📫 You can reach me by adding me on [linkedIn](https://www.linkedin.com/in/jacob-hougaard-bennedsen). 
+# 👋 Hi, I’m @jacob-hougaard
+
+# 👨‍🎓 Education
+BA IT Product Design - 2020
+Msc. IT Product Development - 2022
+
+# 🌱 What am i learning
+I'm currently reading up on the exam to become a [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/en-us/certifications/azure-developer/)
+
+- [ ] Design thinking Co-Creator
+- [X] Openshift Certified Developer 
+
+# ⚡ What do i know
+🤠 Javascript, Typescript, Node 
+☕ Java
+🐍 Python
+🚀 Kubernetes, Openshift.
+🎭 UX, UI design
+
+# 📫 How can you reach me
+You can reach me by adding me on [linkedIn](https://www.linkedin.com/in/jacob-hougaard-bennedsen). 
