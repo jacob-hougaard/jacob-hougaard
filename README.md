@@ -28,7 +28,7 @@ I'm currently reading up on the exam to become a [Microsoft Certified: Azure Dev
 
 🚀 Kubernetes, Openshift.
 
-🎭 UX, UI design
+🎭 Product Design
 
 # 📫 How can you reach me
 You can reach me by adding me on [linkedIn](https://www.linkedin.com/in/jacob-hougaard-bennedsen). 
