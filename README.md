@@ -15,7 +15,7 @@ Msc. IT Product Development - 2020
 # 🌱 What am i learning
 I'm currently reading up on the exam to become a [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/en-us/certifications/azure-developer/) and finishing up my Design Thinking Co-Creator certification.
 
-- [ ] Microsoft Certified: Azure Developer Associate
+- [X] Microsoft Certified: Azure Developer Associate
 - [X] Design thinking Co-Creator
 - [X] Openshift Certified Developer 
 
