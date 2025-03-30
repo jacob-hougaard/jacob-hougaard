@@ -23,8 +23,6 @@ I'm currently reading up on the exam to become a [Microsoft Certified: Azure Dev
 # ⚡ What do i know
 🤠 Javascript, Typescript, Node 
 
-☕ Java
-
 🐍 Python
 
 🚀 Kubernetes, Openshift.
