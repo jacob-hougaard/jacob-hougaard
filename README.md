@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @jacob-hougaard
 Hello and welcome to my GitHub profile! 
 
-My name is Jacob and I am a professional software developer with over half a decade of experience. 
+My name is Jacob and I am a IT Professional with over half a decade of experience. 
 
 I work at IBM where I have gained expertise in various technologies and development methodologies. 
 
